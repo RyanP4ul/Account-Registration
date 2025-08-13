@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ryanpaul\\source\\repos\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE8393C-2806-46A8-989C-2B215F7AE06A}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\ryanpaul\\source\\repos\\windowsformsapp1\\windowsformsapp1\\frmregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE8393C-2806-46A8-989C-2B215F7AE06A}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE8393C-2806-46A8-989C-2B215F7AE06A}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ryanpaul\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\frmregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DE8393C-2806-46A8-989C-2B215F7AE06A}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE8393C-2806-46A8-989C-2B215F7AE06A}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ryanpaul\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\frmconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DE8393C-2806-46A8-989C-2B215F7AE06A}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE8393C-2806-46A8-989C-2B215F7AE06A}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ryanpaul\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\frmconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE8393C-2806-46A8-989C-2B215F7AE06A}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE8393C-2806-46A8-989C-2B215F7AE06A}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ryanpaul\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\studentinfoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE8393C-2806-46A8-989C-2B215F7AE06A}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\studentinfoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\ryanpaul\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\FrmRegistration.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmRegistration.cs",
+              "ToolTip": "C:\\Users\\ryanpaul\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\FrmRegistration.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\FrmRegistration.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T09:09:46.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentInfoClass.cs",
+              "DocumentMoniker": "C:\\Users\\ryanpaul\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\StudentInfoClass.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\StudentInfoClass.cs",
+              "ToolTip": "C:\\Users\\ryanpaul\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\StudentInfoClass.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\StudentInfoClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T09:21:56.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmConfirm.cs",
+              "DocumentMoniker": "C:\\Users\\ryanpaul\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\FrmConfirm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmConfirm.cs",
+              "ToolTip": "C:\\Users\\ryanpaul\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\FrmConfirm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\FrmConfirm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T09:17:07.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmConfirm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ryanpaul\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\FrmConfirm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmConfirm.cs",
+              "ToolTip": "C:\\Users\\ryanpaul\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\FrmConfirm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\FrmConfirm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T09:13:42.999Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmRegistration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ryanpaul\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\FrmRegistration.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmRegistration.cs",
+              "ToolTip": "C:\\Users\\ryanpaul\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\FrmRegistration.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\FrmRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T08:53:44.663Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
