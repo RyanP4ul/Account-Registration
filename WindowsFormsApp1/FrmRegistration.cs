@@ -47,9 +47,6 @@ namespace WindowsFormsApp1
                 textBoxContactNo.Clear();
                 textBoxStudentNo.Clear();
             }
-
-
-
         }
     }
 }
